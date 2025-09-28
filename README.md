@@ -51,6 +51,18 @@ Kalau login user → Viewer <br><br>
 *b). kalau viewer*:<br>
 <img width="357" height="241" alt="image" src="https://github.com/user-attachments/assets/9ef5de80-ee64-467b-8a5d-4acd00c87363" /> <br><br>
 
+-**Output dari tiap pilihan menu** <br>
+*1. Tambah hutang*<br>
+<img width="271" height="200" alt="image" src="https://github.com/user-attachments/assets/cbc20c08-c3ad-4188-b781-64a06709d82b" /> <br>
+User akan disuruh memasukan nama dan jumlah hutang.<br><br>
+*a). Kalau benar (misalnya Bastian, 1000000):<br>
+<img width="404" height="117" alt="image" src="https://github.com/user-attachments/assets/e27e6b97-7bc0-4fc6-8aa6-4e3d9fe9a051" /> <br><br>
+
+Kalau jumlah bukan angka bulat (misalnya huruf, simbol, dll):<br>
+<img width="492" height="105" alt="image" src="https://github.com/user-attachments/assets/176a2f45-59ea-45db-9e2e-e05efa0ba251" />
+
+
+
 
 
 
