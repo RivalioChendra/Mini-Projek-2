@@ -30,7 +30,7 @@ def tambah_data():
         nama = input("Masukkan nama: ")
         jumlah = input("Masukkan jumlah hutang: ")
         if not jumlah.isdigit():  
-            raise ValueError("1")
+            raise ValueError("Jumlah harus angka bulat saja")
         id_baru = len(daftar_hutang) + 1   
         daftar_hutang[id_baru] = (nama, jumlah)
         print("Data berhasil ditambahkan!")
@@ -138,5 +138,6 @@ def login():
             break
         else:
             print("Username atau password salah, coba lagi!")
+
 
 login()
