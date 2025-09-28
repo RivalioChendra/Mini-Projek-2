@@ -48,18 +48,45 @@ Kalau login user → Viewer <br><br>
 <img width="397" height="317" alt="image" src="https://github.com/user-attachments/assets/dabfc05f-304e-4d58-bdd1-29a0c81ad05d" /> <br><br>
 *b). kalau karyawan*:<br>
 <img width="389" height="306" alt="image" src="https://github.com/user-attachments/assets/cd1e41a1-8145-4c55-84b4-e450fdf56232" /> <br><br>
-*b). kalau viewer*:<br>
+*c). kalau viewer*:<br>
 <img width="357" height="241" alt="image" src="https://github.com/user-attachments/assets/9ef5de80-ee64-467b-8a5d-4acd00c87363" /> <br><br>
 
 -**Output dari tiap pilihan menu** <br>
 *1. Tambah hutang*<br>
 <img width="271" height="200" alt="image" src="https://github.com/user-attachments/assets/cbc20c08-c3ad-4188-b781-64a06709d82b" /> <br>
 User akan disuruh memasukan nama dan jumlah hutang.<br><br>
-*a). Kalau benar (misalnya Bastian, 1000000):<br>
+*a). Kalau benar (misalnya Bastian, 1000000):* <br>
 <img width="404" height="117" alt="image" src="https://github.com/user-attachments/assets/e27e6b97-7bc0-4fc6-8aa6-4e3d9fe9a051" /> <br><br>
 
-Kalau jumlah bukan angka bulat (misalnya huruf, simbol, dll):<br>
-<img width="492" height="105" alt="image" src="https://github.com/user-attachments/assets/176a2f45-59ea-45db-9e2e-e05efa0ba251" />
+*b). Kalau jumlah bukan angka bulat (misalnya huruf, simbol, dll):* <br>
+<img width="492" height="105" alt="image" src="https://github.com/user-attachments/assets/176a2f45-59ea-45db-9e2e-e05efa0ba251" /> <br><br>
+
+*2. Lihat Hutang*<br>
+<img width="402" height="257" alt="image" src="https://github.com/user-attachments/assets/ed0ba292-3916-49d9-8c86-7db9e290f104" /> <br>
+Saat memilih Lihat Hutang, maka akan ditunjukan daftar hutang yang ada, dan juga hutang yang baru dibuat. <br><br>
+*3. Ubah Hutang* <br>
+<img width="396" height="226" alt="image" src="https://github.com/user-attachments/assets/3930018b-bc4d-4908-b7c7-2d1a17132f62" />
+pertama-tama akan menunjukan daftar hutang yang ada. <br><br>
+
+<img width="469" height="251" alt="image" src="https://github.com/user-attachments/assets/6357cd14-da1a-4e32-bd6c-de19c0571884" /> <br>
+Lalu disuruh masukan ID yang mau diubah<br><br>
+*a). Kalau ID benar, lanjut* <br>
+<img width="415" height="277" alt="image" src="https://github.com/user-attachments/assets/5776efd0-647a-4d6a-97a4-698f1ce8405a" /> <br><br>
+
+*b). Kalau valid* <br>
+<img width="388" height="337" alt="image" src="https://github.com/user-attachments/assets/01a2be9b-e364-48d0-a547-6efa585b915d" /> <br><br>
+
+
+*c). Kalau salah input (bukan angka)* <br>
+<img width="458" height="341" alt="image" src="https://github.com/user-attachments/assets/2ee835be-9311-4190-ae5f-51cd92f8cff9" /> <br><br>
+
+*d). kalau ID tidak ada:* <br>
+<img width="419" height="53" alt="image" src="https://github.com/user-attachments/assets/b286615f-9a67-4884-8f75-10d2322bc012" /> <br><br>
+
+
+
+
+
 
 
 
