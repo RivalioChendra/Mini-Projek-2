@@ -65,7 +65,7 @@ User akan disuruh memasukan nama dan jumlah hutang.<br><br>
 <img width="402" height="257" alt="image" src="https://github.com/user-attachments/assets/ed0ba292-3916-49d9-8c86-7db9e290f104" /> <br>
 Saat memilih Lihat Hutang, maka akan ditunjukan daftar hutang yang ada, dan juga hutang yang baru dibuat. <br><br>
 *3. Ubah Hutang* <br>
-<img width="396" height="226" alt="image" src="https://github.com/user-attachments/assets/3930018b-bc4d-4908-b7c7-2d1a17132f62" />
+<img width="396" height="226" alt="image" src="https://github.com/user-attachments/assets/3930018b-bc4d-4908-b7c7-2d1a17132f62" /> <br>
 pertama-tama akan menunjukan daftar hutang yang ada. <br><br>
 
 <img width="469" height="251" alt="image" src="https://github.com/user-attachments/assets/6357cd14-da1a-4e32-bd6c-de19c0571884" /> <br>
@@ -82,6 +82,30 @@ Lalu disuruh masukan ID yang mau diubah<br><br>
 
 *d). kalau ID tidak ada:* <br>
 <img width="419" height="53" alt="image" src="https://github.com/user-attachments/assets/b286615f-9a67-4884-8f75-10d2322bc012" /> <br><br>
+
+*4. Hapus Hutang (hanya Manager)* <br><br>
+Tampillkan tabel, lalu:. <br>
+<img width="411" height="260" alt="image" src="https://github.com/user-attachments/assets/6c1ac765-63a3-4048-8e68-6e9368d275bc" /> <br><br>
+
+*a). Kalau ID benar:* <br>
+<img width="390" height="287" alt="image" src="https://github.com/user-attachments/assets/fa84837a-af06-4db3-91b2-76157fad8aeb" /> <br><br>
+
+*b). Kalau ID salah:* <br>
+<img width="391" height="284" alt="image" src="https://github.com/user-attachments/assets/13e82670-5125-498c-a81d-e5118904e4a9" /> <br><br>
+
+*c). Kalau input bukan angka:* <br>
+<img width="407" height="289" alt="image" src="https://github.com/user-attachments/assets/d7b4efca-0920-4658-aea2-a7c837cc73bf" /> <br><br>
+
+**5. Keluar Program (Manager) atau 4 / 2 (Karyawan/Viewer)** <br>
+<img width="232" height="26" alt="image" src="https://github.com/user-attachments/assets/b089ff90-80ac-47c7-8e8d-07e8a719d5cc" /> <br>
+program berhenti. <br><br>
+
+**6. Kalau pilih menu yang tidak ada** <br>
+<img width="292" height="52" alt="image" src="https://github.com/user-attachments/assets/b5a658f3-ef82-40bc-8677-2152c3720e5b" /> <br><br>
+
+**Sekian Penjelesan terkait program yang telah di update, Terima Kasih**
+
+
 
 
 
