@@ -29,6 +29,28 @@ Program ini adalah update untuk Sistem Manajemen Pencatatan Hutang, yang telah d
 <br><br>
 
 ### Alur Program  
--**Saat Program dijalankan**
-Output:
-<img width="246" height="59" alt="image" src="https://github.com/user-attachments/assets/68f9cad1-fa37-4e01-a0f6-f1671f74527e" />
+-**Saat Program dijalankan** <br>
+Output: <br>
+
+<img width="246" height="59" alt="image" src="https://github.com/user-attachments/assets/68f9cad1-fa37-4e01-a0f6-f1671f74527e" /> <br>
+Program akan meminta username dan password. <br><br>
+Jika akun yang dimasukan salah, akan keluar output: <br>
+<img width="492" height="125" alt="image" src="https://github.com/user-attachments/assets/1aca6826-466f-4b3c-aa4b-f6d0062458a6" /> <br><br>
+
+-**Jika Login berhasil** <br>
+Contoh kalau login sebagai admin (role = Manager): <br>
+<img width="378" height="315" alt="image" src="https://github.com/user-attachments/assets/40b78cd6-3c4e-4e35-80ca-a1b62baa7b6e" /> <br>
+Kalau login budak → Karyawan
+Kalau login user → Viewer <br><br>
+
+-**Tampil menu sesuai Role** <br>
+*a). kalau manager*:<br>
+<img width="397" height="317" alt="image" src="https://github.com/user-attachments/assets/dabfc05f-304e-4d58-bdd1-29a0c81ad05d" /> <br><br>
+*b). kalau karyawan*:<br>
+<img width="389" height="306" alt="image" src="https://github.com/user-attachments/assets/cd1e41a1-8145-4c55-84b4-e450fdf56232" /> <br><br>
+*b). kalau viewer*:<br>
+<img width="357" height="241" alt="image" src="https://github.com/user-attachments/assets/9ef5de80-ee64-467b-8a5d-4acd00c87363" /> <br><br>
+
+
+
+
