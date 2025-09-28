@@ -40,7 +40,7 @@ Jika akun yang dimasukan salah, akan keluar output: <br>
 -**Jika Login berhasil** <br>
 Contoh kalau login sebagai admin (role = Manager): <br>
 <img width="378" height="315" alt="image" src="https://github.com/user-attachments/assets/40b78cd6-3c4e-4e35-80ca-a1b62baa7b6e" /> <br>
-Kalau login budak → Karyawan
+Kalau login budak → Karyawan <br>
 Kalau login user → Viewer <br><br>
 
 -**Tampil menu sesuai Role** <br>
