@@ -101,7 +101,7 @@ def menu(role):
                 print("Keluar program...")
                 break
             else:
-                print("Menu tidak tersedia!5")
+                print("Menu tidak tersedia!")
 
         elif role == "Karyawan":
             if pilihan == "1":
@@ -141,3 +141,4 @@ def login():
 
 
 login()
+
