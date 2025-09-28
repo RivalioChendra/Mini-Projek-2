@@ -52,7 +52,7 @@ Kalau login user → Viewer <br><br>
 <img width="357" height="241" alt="image" src="https://github.com/user-attachments/assets/9ef5de80-ee64-467b-8a5d-4acd00c87363" /> <br><br>
 
 -**Output dari tiap pilihan menu** <br>
-*1. Tambah hutang*<br>
+**1. Tambah hutang**<br>
 <img width="271" height="200" alt="image" src="https://github.com/user-attachments/assets/cbc20c08-c3ad-4188-b781-64a06709d82b" /> <br>
 User akan disuruh memasukan nama dan jumlah hutang.<br><br>
 *a). Kalau benar (misalnya Bastian, 1000000):* <br>
@@ -61,10 +61,10 @@ User akan disuruh memasukan nama dan jumlah hutang.<br><br>
 *b). Kalau jumlah bukan angka bulat (misalnya huruf, simbol, dll):* <br>
 <img width="492" height="105" alt="image" src="https://github.com/user-attachments/assets/176a2f45-59ea-45db-9e2e-e05efa0ba251" /> <br><br>
 
-*2. Lihat Hutang*<br>
+**2. Lihat Hutang**<br>
 <img width="402" height="257" alt="image" src="https://github.com/user-attachments/assets/ed0ba292-3916-49d9-8c86-7db9e290f104" /> <br>
 Saat memilih Lihat Hutang, maka akan ditunjukan daftar hutang yang ada, dan juga hutang yang baru dibuat. <br><br>
-*3. Ubah Hutang* <br>
+**3. Ubah Hutang** <br>
 <img width="396" height="226" alt="image" src="https://github.com/user-attachments/assets/3930018b-bc4d-4908-b7c7-2d1a17132f62" /> <br>
 pertama-tama akan menunjukan daftar hutang yang ada. <br><br>
 
@@ -83,7 +83,7 @@ Lalu disuruh masukan ID yang mau diubah<br><br>
 *d). kalau ID tidak ada:* <br>
 <img width="419" height="53" alt="image" src="https://github.com/user-attachments/assets/b286615f-9a67-4884-8f75-10d2322bc012" /> <br><br>
 
-*4. Hapus Hutang (hanya Manager)* <br><br>
+**4. Hapus Hutang (hanya Manager)** <br>
 Tampillkan tabel, lalu:. <br>
 <img width="411" height="260" alt="image" src="https://github.com/user-attachments/assets/6c1ac765-63a3-4048-8e68-6e9368d275bc" /> <br><br>
 
