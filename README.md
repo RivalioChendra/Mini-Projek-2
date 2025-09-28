@@ -84,7 +84,7 @@ Lalu disuruh masukan ID yang mau diubah<br><br>
 <img width="419" height="53" alt="image" src="https://github.com/user-attachments/assets/b286615f-9a67-4884-8f75-10d2322bc012" /> <br><br>
 
 **4. Hapus Hutang (hanya Manager)** <br>
-Tampillkan tabel, lalu:. <br>
+Tampillkan tabel, lalu: <br>
 <img width="411" height="260" alt="image" src="https://github.com/user-attachments/assets/6c1ac765-63a3-4048-8e68-6e9368d275bc" /> <br><br>
 
 *a). Kalau ID benar:* <br>
